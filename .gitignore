@@ -8,3 +8,4 @@ MANIFEST
 .cache/
 *.egg-info/
 *.tmp
+uv.lock
